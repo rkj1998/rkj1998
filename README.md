@@ -1,6 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=rkj1998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <h1 align="center">Hi 👋, I'm Rahul Jha</h1>
 <h3 align="center">A Full-Stack Software Engineer Crafting High-Impact, Data-Driven Solutions</h3>
 
@@ -8,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rkj1998" alt="rahul-jha" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rkj1998theme=onedark" alt="rahul-jha" />
   </a>
 </p>
 
