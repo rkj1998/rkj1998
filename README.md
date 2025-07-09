@@ -71,7 +71,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rahul-jha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkj1998&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="rahul-jha" />
 </p>
 
 <p align="center">
